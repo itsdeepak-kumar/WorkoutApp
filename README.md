@@ -10,8 +10,8 @@ calcuating BMI, one can also keep an eye over the past workout streak etc.
       <td>BMI Activity</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/64521665/185565929-ee7140fa-1477-42ad-989c-02bf3ce736ce.jpg" width=270 height=480></td>
     <td><img src="https://user-images.githubusercontent.com/64521665/185565940-d791a6ae-da8c-4c96-b488-6cc237565efc.jpg" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/64521665/185565929-ee7140fa-1477-42ad-989c-02bf3ce736ce.jpg" width=270 height=480></td>
     <td><img src="https://user-images.githubusercontent.com/64521665/185565945-f7980389-1190-4694-8536-fba5c94d15be.jpg" width=270 height=480></td>
   </tr>
  </table>
